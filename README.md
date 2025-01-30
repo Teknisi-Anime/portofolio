@@ -18,7 +18,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal di mesi
 Klon repository ini ke mesin lokal Anda menggunakan Git:
 
 ```bash
-git clone https://github.com/KiroFyzu/udin-CV.git
+git clone https://github.com/Teknisi-Anime/portofolio.git
 ```
 
 ### 2. Instal Dependensi
@@ -157,4 +157,4 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ## Kontak
 
-Untuk pertanyaan atau umpan balik, Anda dapat menghubungi pemelihara proyek di [kirofyzu@gmail.com](mailto:kirofyzu@gmail.com).
+Untuk pertanyaan atau umpan balik, Anda dapat menghubungi pemelihara proyek di [muhammadazzamishomuddin@gmail.com](mailto:muhammadazzamishomuddin@gmail.com).
