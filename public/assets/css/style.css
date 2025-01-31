@@ -695,9 +695,19 @@ small {
 
 .center {
   display: block;
-  margin-top: -50px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  height: 25%;;
+  max-width: 50%;
+  height: auto;
+  margin: 150px auto 0;
+}
+
+@media (max-width: 768px) {
+  .center {
+    max-width: 80%;
+  }
+}
+
+.responsive-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* atau object-fit: contain; */
 }
